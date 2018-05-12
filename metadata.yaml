@@ -1,0 +1,31 @@
+_repo: March-to-Magdala_39470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Ethiopia -- History -- 1490-1889'
+- !lcsh 'Magdala, Battle of, Amba Maryam, Ethiopia, 1868'
+- !lcsh 'Abyssinian Expedition (1867-1868)'
+title: The March to Magdala
+url: http://www.gutenberg.org/ebooks/39470
